@@ -1,0 +1,24 @@
+{
+  "name": "onboarding-slack-bot",
+  "version": "1.0.0",
+  "description": "Sunrise Movement onboarding slack bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SunriseLosAngeles/onboarding-slack-bot.git"
+  },
+  "author": "Sunrise Movement",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SunriseLosAngeles/onboarding-slack-bot/issues"
+  },
+  "homepage": "https://github.com/SunriseLosAngeles/onboarding-slack-bot#readme",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-env": "^1.7.0"
+  }
+}
